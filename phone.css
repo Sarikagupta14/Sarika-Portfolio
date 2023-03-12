@@ -502,19 +502,19 @@ a{
   }
 
   #project1{
-    background-image: url(img4.png);
+    background-image: url(./images/Project1.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(project2.png);
+    background-image: url(./images/Project2.png);
   }
   #project3{
-    background-image: url(parallax.png);
+    background-image: url(./images/Project3.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(flower.png);
+    background-image: url(.images/Project4.png);
   }
 
   @media (max-width:1300px) {
